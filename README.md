@@ -75,7 +75,9 @@ Key work includes:
 ### 🎵 Mood Based Song Player – SUNO
 
 AI application that detects facial emotion and recommends songs.
+
 [![Watch the video](https://img.youtube.com/vi/oMrDfCzOsLY/maxresdefault.jpg)](https://www.youtube.com/watch?v=oMrDfCzOsLY)
+
 Features:
 
 * Facial emotion detection
@@ -87,7 +89,9 @@ Features:
 ### 👁️ Real Time Face Attendance System
 
 Face authentication system using **eye blink detection** to prevent spoofing.
+
 [![Watch the video](https://img.youtube.com/vi/oMrDfCzOsLY/maxresdefault.jpg)](https://www.youtube.com/watch?v=xWDNo_tvOr4)
+
 Features:
 
 * Real time face detection
