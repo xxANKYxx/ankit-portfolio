@@ -1,36 +1,131 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hi 👋, I'm Ankit Kumar
 
-## Getting Started
+💻 Software Engineer | C++ Developer | AI Enthusiast
 
-First, run the development server:
+I am a software engineer with **3+ years of experience building enterprise software systems**.
+Currently working on industrial automation platforms and solving complex debugging and performance problems in large-scale C++ applications.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## 🚀 About Me
+
+* 🔭 Currently working as **Software Engineer**
+* 🏭 Building enterprise automation software at Siemens
+* 🧠 Interested in **AI, Systems Programming and Scalable Software**
+* 🐞 Love debugging complex memory and performance issues
+* 🏆 Smart India Hackathon Winner
+* ⚡ Fun fact: I enjoy solving complex engineering problems
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+```
+C++ | C# | Python
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Technologies
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+MFC | ATL | COM | STL
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Concepts
 
-## Learn More
+```
+Data Structures
+Algorithms
+System Design
+Multithreading
+Debugging
+Memory Management
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Tools
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+Git
+Visual Studio
+TFS
+WinDbg
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 💼 Work Experience
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Software Engineer – Siemens**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Working on **WinCC SCADA platform**, an enterprise industrial automation system.
+
+Key work includes:
+
+* Developing new features using **C++ (MFC, ATL, COM)**
+* Debugging large-scale production issues
+* Fixing **memory leaks, crashes and performance bottlenecks**
+* Improving reliability of mission-critical software
+* Collaborating across multiple engineering teams
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 Mood Based Song Player – SUNO
+
+AI application that detects facial emotion and recommends songs.
+
+Features:
+
+* Facial emotion detection
+* Music genre classification
+* Deep learning models
+
+---
+
+### 👁️ Real Time Face Attendance System
+
+Face authentication system using **eye blink detection** to prevent spoofing.
+
+Features:
+
+* Real time face detection
+* Anti spoofing authentication
+* Automated attendance
+
+---
+
+## 🏆 Achievements
+
+🏅 Siemens Customer Impact Award
+🏆 Winner – Smart India Hackathon 2021
+⭐ Stars Award for feature implementation in WinCC
+🏆 Top teams – GHCP T20 Hackathon (490+ teams)
+
+---
+
+## 📜 Certifications
+
+* Machine Learning – DataCamp
+* Deep Learning – DataCamp
+* IBM RAG & Agentic AI Professional Certificate
+* Full Stack Development – CodingNinja
+
+---
+
+
+## 🌐 Connect With Me
+
+LinkedIn
+https://www.linkedin.com/in/ankit-kumar-ba0378194/
+
+GitHub
+https://github.com/xxANKYxx
+
+Portfolio
+https://xxankyxx.github.io/ankit-portfolio/
+
+---
+
+⭐ *Always interested in building high-performance software and exploring AI driven solutions.*
