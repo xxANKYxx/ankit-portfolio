@@ -29,7 +29,7 @@ C++ | C# | Python
 ### Technologies
 
 ```
-MFC | ATL | COM | STL
+MFC | ATL | COM | STL | Qt
 ```
 
 ### Concepts
@@ -41,6 +41,7 @@ System Design
 Multithreading
 Debugging
 Memory Management
+Windows Graphics Developement
 ```
 
 ### Tools
@@ -50,6 +51,7 @@ Git
 Visual Studio
 TFS
 WinDbg
+Qt Creator
 ```
 
 ---
@@ -67,6 +69,7 @@ Key work includes:
 * Fixing **memory leaks, crashes and performance bottlenecks**
 * Improving reliability of mission-critical software
 * Collaborating across multiple engineering teams
+* Developed feature for window graphics for WinCC.
 
 ---
 
